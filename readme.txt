@@ -1,3 +1,5 @@
+The lighting is not quite right but I am no longer working on this project.
+
 Instructions for the .sol from Professor Adam Smith:
 
 The first line is the position of the camera. The numbers are respectively the x,
@@ -18,4 +20,5 @@ sun’s center, followed by the orbital period (“year”) in seconds. Finally 
 specular shininess, with a 0 indicating no specular component.
 – Moons are tabbed in twice, and they orbit the planet most recently
 specified. The tokens are the same as for planets. Note that a planet may have
+
 multiple moons.
