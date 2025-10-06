@@ -1,5 +1,6 @@
 The lighting is not quite right but I am no longer working on this project.
 
+This is a project done for a Computer Graphics course taught by Professor Adam Smith at the University of Puget Sound. The Utils function was created by him and the rest is my personal work.
 Instructions for the .sol from Professor Adam Smith:
 
 The first line is the position of the camera. The numbers are respectively the x,
@@ -22,3 +23,4 @@ specular shininess, with a 0 indicating no specular component.
 specified. The tokens are the same as for planets. Note that a planet may have
 
 multiple moons.
+
